@@ -19,7 +19,19 @@ cadena utilizando índices.
 una cadena de texto.
 
 Condicionals:
+En esta lección, aprenderás:
 
+1. if. Como usar la estructura condicional mas basica para ejecutar un bloque de
+código solo si se cumple una condición.
+2. else: Qué hacer cuando la condición no se cumple, utilizando el bloque else para
+manejar otros escenarios.
+3. else if. Como manejar multiples condiciones secuenciales con else if para verificar
+más de un caso.
+4. Operador ternario: Veras como este operador compacto permite tomar decisiones
+simples en una sola línea de código.
+5. switch: Aprenderas a usar switch para manejar multiples condiciones basadas en el
+valor de una variable, ideal para escenarios donde tienes varias posibles salidas
+basadas en un único valor.
 
 
 
