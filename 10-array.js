@@ -1,4 +1,4 @@
-// Array
+// ** ESTRUCTURAS DE DATOS CON ARRAY **
 
 // Declaración
 
